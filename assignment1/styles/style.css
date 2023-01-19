@@ -122,6 +122,11 @@
     border-radius: 8px;
     background: url();
     background-repeat: no-repeat;
+    /* background: linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0) 100%); */
+   
+    border-radius: 8px;
+
+  
 }
 .img2{
     position: relative;
@@ -130,11 +135,11 @@
     
     height: 300px;
     position: absolute;
-    
-width: 459px;
-height: 94px;
-left: 294px;
-top: 2200.26px;
+    width: 459px;
+    height: 94px;
+    left: 294px;
+    top: 2200.26px;
+    background: url(images/gradient2.png);
 
     
     
